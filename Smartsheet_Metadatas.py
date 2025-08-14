@@ -2,7 +2,7 @@
 import smartsheet
 
 # Replace with your API token
-TOKEN = 'VJMHRFRfjH3IaO3dUJKPp5sf0I8WqkzamUwIn'
+TOKEN = 'VJMHRFRfjH3IaO3dUJKPp5sf0I8WqkzamUw**'
 
 # Create Smartsheet client
 smartsheet_client = smartsheet.Smartsheet(TOKEN)
